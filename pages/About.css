@@ -1,0 +1,13 @@
+#meram {
+    background: linear-gradient( 267deg, #066069 0%, #1e7d62 38.49%, #8aca38 100%);
+    filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.16));
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    
+}
+
+.big:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+     transform: scale(1.1); 
+}
